@@ -12,6 +12,6 @@ Página de entrada de Dr. Grandel España para centros de estética: portada, no
 
 ## Notas
 - Sin cookies ni analítica; tipografías alojadas en el repo; funciona sin JavaScript.
-- Vídeo de testimonios: horizontal en ordenador (ePhVZ0oYNvM) y vertical en móvil (Ab-gy8JOo00). Solo se conecta con YouTube (youtube-nocookie.com) al pulsar play.
+- Vídeo de testimonios: horizontal en ordenador (Tl0Y6QTegrI) y vertical en móvil (pFIoKDqP9_o). Solo se conecta con YouTube (youtube-nocookie.com) al pulsar play.
 - Bloque «TOUR ACTIVO» (comentado en el HTML): las fechas pasadas se atenúan solas y el bloque se oculta cuando pasa la última. Para un tour nuevo, cambiar textos, `data-date`, foto y enlace.
 - Citas de testimonios: pendientes.
